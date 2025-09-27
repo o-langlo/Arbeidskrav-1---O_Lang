@@ -1,1 +1,2 @@
-# Arbeidskrav-1---O_Lang
+# Besvarelse av arbeidskrav 1 
+Besvares ved bruk og opplasting av Python program (*.py), og ikke notebook (*.ipynb).
